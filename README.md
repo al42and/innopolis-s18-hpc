@@ -21,3 +21,6 @@ You can edit code right there, and press Shift+Enter to run current cell and see
 
 * [Floating point](https://github.com/al42and/innopolis-s18-hpc/blob/master/1_Floating_Point/1_Floating_Point.ipynb)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/al42and/innopolis-s18-hpc/master?filepath=1_Floating_Point%2F1_Floating_Point.ipynb)
+* [Numerical differentiation](https://github.com/al42and/innopolis-s18-hpc/blob/master/2_Numerical_Differentiation/2_Numerical_Differentiation.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/al42and/innopolis-s18-hpc/master?filepath=2_Numerical_Differentiation%2F2_Numerical_Differentiation.ipynb)
+
